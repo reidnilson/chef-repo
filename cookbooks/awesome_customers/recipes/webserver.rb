@@ -30,10 +30,16 @@ file "#{node['awesome_customers']['document_root']}/index.php" do
   group 'web_admin'
 end
 
+firewall 'default'
+
+firewall 'default' do
+ action :install
+end
+
 # Open port 80 to incoming traffic.
 firewall_rule 'http' do
   port 80
   protocol :tcp
   position 1
-  action :allow
+  action :create
 end

@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures awesome_customers'
 long_description 'Installs/Configures awesome_customers'
-version '0.1.2'
+version '0.1.3'
 
 depends 'apt', '~> 2.8.2'
 depends 'httpd', '~> 0.2.19'
