@@ -1,12 +1,12 @@
 #
-# Cookbook Name:: mariadb
+# Cookbook Name:: awesome_customers
 # Spec:: default
 #
 # Copyright (c) 2015 The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
-describe 'mariadb::default' do
+describe 'awesome_customers::default' do
   context 'When all attributes are default, on an unspecified platform' do
     let(:chef_run) do
       runner = ChefSpec::ServerRunner.new

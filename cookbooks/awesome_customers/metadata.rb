@@ -1,0 +1,11 @@
+name 'awesome_customers'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures awesome_customers'
+long_description 'Installs/Configures awesome_customers'
+version '0.1.2'
+
+depends 'apt', '~> 2.8.2'
+depends 'httpd', '~> 0.2.19'
+depends 'firewall', '~> 2.0.4'

@@ -1,0 +1,10 @@
+name 'database_setup'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures database_setup'
+long_description 'Installs/Configures database_setup'
+version '0.1.36'
+
+depends 'apt', '~> 2.8.2'
+depends 'mariadb', '~> 0.3.1'
