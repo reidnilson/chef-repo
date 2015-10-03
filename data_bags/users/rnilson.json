@@ -1,0 +1,7 @@
+{
+	"id": "rnilson",
+	"ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCp2rNPi5T0QnYU0Tm2Z5UU8tUdEuvZU/Khu/Kkm2Pf97uLCj4Of4ihFRw9dGx61VhDwcYDkbn5LKHpDnf0Ord8YTj56GsAkTGEaqSzRqBjpoHRrPjLoD1AyAmFwdntYBQ6v/YI/K0CnjC6eDZTUb1N/W7RvE7nudkOA/BM0nwpAe1fWiOxSIJ/73rvaQaSXPu2LyWnQ3yF2Fy3cCPPwROry2Kz8FkmRfCvpydBzWPsenYjMM2MJaAa0PHEhNtCrQTruYq9t4i31LB8lzaO4EIeJXH+NP1xh1BWfQuRe3h7wlkMZUHTNyLyceIrEDdFcZ5Wj6Nai0k3LM1Uc80lhD/r rnilson@Reids-MacBook-Pro.local",
+	"groups": [ "sysadmin", "dba", "devops" ],
+	"uid": 2001,
+	"shell": "/bin/bash"
+}
